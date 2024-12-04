@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "What is the longest river in the world?",
+      "image": "images/amazon_river.jpg",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 2,
+      "question": "On which continent is the Sahara Desert located?",
+      "image": "images/sahara_desert.jpg",
+      "options": [
+        "Asia",
+        "America",
+        "Africa",
+        "Australia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which country has the largest population in the world?",
+      "image": "images/china_population.jpg",
+      "options": [
+        "India",
+        "United States",
+        "Russia",
+        "China"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which is the largest ocean in the world?",
+      "image": "images/pacific_ocean.jpg",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 5,
+      "question": "In which country is the Eiffel Tower located?",
+      "image": "images/eiffel_tower.jpg",
+      "options": [
+        "Italy",
+        "Spain",
+        "France",
+        "Germany"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+  
