@@ -13,7 +13,7 @@ interface QuestionsState {
     reset: () => void;
 }
 
-const API_URL = "http://localhost:5173/";
+const API_URL = "http://localhost:5173";
 
 export const useQuestionsStore = create<QuestionsState>((set, get) => ({
     loading: false,
